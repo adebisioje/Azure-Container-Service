@@ -11,6 +11,7 @@ Here is a visual description of the difference between VMs and Container Service
 
 Here is a great introduction by Corey Sanders: https://www.youtube.com/watch?v=-Sr0lfowvBM 
 
+#How to Deploy Containers in Azure
 
 
 
