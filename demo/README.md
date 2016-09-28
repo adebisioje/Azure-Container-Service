@@ -12,13 +12,10 @@ Others can be found at https://docs.docker.com/engine/understanding-docker/ unde
 
 PS: I would be running most of my commands on a Mac OS for this demo. Similar commands can be run on windows as well. 
 
-#Test installed docker on machine 
-    * Docker
-    * Docker-Compose
-    * TMux
-    * TMuxinator
-
-
+#Test installed docker on machine
+To test if docker is installed, type 
+    * which docker 
+you should see the path to your installed docker
 
 
 
