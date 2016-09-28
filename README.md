@@ -2,7 +2,7 @@
 Desctiption of Azure Container Service 
 
 #What are Containers? 
-Contianers are a Virtualization Technology that offer isolated and independent compute component running on a single machine. They share HOST and VM OS and libraries. 
+Contianers are a Virtualization Technology that offer isolated and independent compute component running on a single machine. They share HOST and VM OS and libraries. They are light weight, flexible and very fast. 
 
 Here is a visual description of the difference between VMs and Container Service. 
 
