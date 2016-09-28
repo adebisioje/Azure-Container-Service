@@ -24,6 +24,10 @@ Get hello world application from tutum
 
      docker run -d -p 80:80 tutum/hello-world
 
+#Step 3
+You should be able to see the tutum web application once you go to your browser and type the hostname  or ip address:
+
+      http://YOUR_HOST
 
 
 
