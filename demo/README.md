@@ -15,9 +15,14 @@ PS: I would be running most of my commands on a Mac OS for this demo. Similar co
 #Test installed docker on machine
 To test if docker is installed, type the following in your console:
 
+    * which docker 
+   
+ Result
+ 
     * adebisioje$ which docker
+    * which docker 
     
-you should see the path to your installed docker
+
 
 
 
