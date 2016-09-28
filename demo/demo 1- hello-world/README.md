@@ -1,27 +1,17 @@
-# Azure-Container-Service Demo 
+#Objectives 
+1. Show how fast containers can be started and stopped
+2. Learn basic commadns for managing containers
 
-Here you would find a number of folders that represent demos. If you are new to container services, you should start out with demo 1. Before you start, please follow the instructions below: 
+#Environment
 
-# Requirements
+* Linux client (could be Windows)
+* Docker host installed on this machine
 
-* Docker Download(Mac): https://docs.docker.com/engine/installation/mac/
-* Docker Download (Windows): https://docs.docker.com/engine/installation/windows/
-* Docker Download (linux - Ubuntu): https://docs.docker.com/engine/installation/linux/ubuntulinux/
+#Step 1 
+Run the following command:
+      * docker run hello-world
+      * docker ps -a
 
-Others can be found at https://docs.docker.com/engine/understanding-docker/ under install
-
-PS: I would be running most of my commands on a Mac OS for this demo. Similar commands can be run on windows as well. 
-
-#Test installed docker on machine
-To test if docker is installed, type the following in your console:
-
-    * which docker 
-   
- Result
- 
-    * adebisioje$ which docker
-    * /usr/local/bin/docker
-    
 
 
 
