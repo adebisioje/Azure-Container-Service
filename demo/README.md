@@ -20,7 +20,7 @@ To test if docker is installed, type the following in your console:
  Result
  
     * adebisioje$ which docker
-    * which docker 
+    * /usr/local/bin/docker
     
 
 
