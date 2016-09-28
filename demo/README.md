@@ -21,8 +21,12 @@ To test if docker is installed, type the following in your console:
  
     * adebisioje$ which docker
     * /usr/local/bin/docker
-    
 
+Now you can start on the demos! 
+
+#Demos 
+
+Demo 1 - Introduction: Hello World 
 
 
 
