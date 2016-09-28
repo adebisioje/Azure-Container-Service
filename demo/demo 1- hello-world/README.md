@@ -19,7 +19,10 @@ You should have the hello world process running:
       * 8b5078f768f9        hello-world         "/hello"            3 seconds ago       Exited (0) 2 seconds ago                       modest_hugle
 
 
+#Step 2
 
+    * docker run -d -p 80:80 tutum/hello-world
+      * http://MY_HOST
 
 
 
