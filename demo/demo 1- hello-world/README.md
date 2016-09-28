@@ -1,6 +1,7 @@
 #Objectives 
-1. Show how fast containers can be started and stopped
-2. Learn basic commadns for managing containers
+1. How to run containers
+2. Show how fast containers can be started and stopped
+3. Learn basic commadns for managing containers
 
 #Environment
 
