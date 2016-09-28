@@ -10,6 +10,7 @@ Here is a visual description of the difference between VMs and Container Service
 
 #How to Deploy Containers in Azure
 
+[Go through my demos] (https://github.com/adebisioje/Azure-Container-Service/tree/master/demo)
 
 
 #Links and Resources 
