@@ -6,10 +6,7 @@ Contianers are a Virtualization Technology that offer isolated and independent c
 
 Here is a visual description of the difference between VMs and Container Service. 
 
-
-<img src="https://github.com/adebisioje/Azure-Container-Service/blob/master/images/VMvsContainers.PNG" width="320" height="400" /> 
-
-
+<img src="https://github.com/adebisioje/Azure-Container-Service/blob/master/images/VMvsContainers.PNG" width="320" height="400"/> 
 
 #How to Deploy Containers in Azure
 
