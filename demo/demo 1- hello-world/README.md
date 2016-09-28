@@ -15,8 +15,8 @@ Run the following command:
 
 You should have the hello world process running: 
 
-   * CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                     PORTS               NAMES
-   * 8b5078f768f9        hello-world         "/hello"            3 seconds ago       Exited (0) 2 seconds ago                       modest_hugle
+      * CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS                     PORTS               NAMES
+      * 8b5078f768f9        hello-world         "/hello"            3 seconds ago       Exited (0) 2 seconds ago                       modest_hugle
 
 
 
