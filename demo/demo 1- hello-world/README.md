@@ -29,6 +29,10 @@ You should be able to see the tutum web application once you go to your browser 
 
       http://YOUR_HOST
 
+#Step 4
+Clean up 
+
+     docker rm -f $(docker ps -qa)
 
 
 
