@@ -26,7 +26,7 @@ Now you can start on the demos!
 
 #Demos 
 
-[Demo 1](https://github.com/adebisioje/Azure-Container-Service/tree/master/demo/demo%201-%20hello-world).- Introduction: Hello World 
+[Demo 1] (https://github.com/adebisioje/Azure-Container-Service/tree/master/demo/demo%201-%20hello-world).- Introduction: Hello World 
 
 
 
