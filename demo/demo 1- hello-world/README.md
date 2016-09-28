@@ -9,8 +9,8 @@
 
 #Step 1 
 Run the following command:
-      * docker run hello-world
-      * docker ps -a
+    * docker run hello-world
+    * docker ps -a
 
 
 
