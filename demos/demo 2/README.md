@@ -3,6 +3,9 @@
 #Requirement
 Docker must be installed and running. See [instructions](https://github.com/adebisioje/Azure-Container-Service/tree/master/demos) here. 
 
+#Objectives
+1) How to build a container
+
 #Step 1 - Create Directory structure 
 From your root directory, create a directory with the following structure:
 
