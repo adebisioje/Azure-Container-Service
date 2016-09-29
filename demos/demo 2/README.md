@@ -15,7 +15,7 @@ Under the web folder create a file named Dockerfile that contains the following:
 
     COPY ./www /var/www/
     
-This file is also found here
+This file is also found [here](https://github.com/adebisioje/Azure-Container-Service/blob/master/demos/demo%202/web/Dockerfile.txt)
 
 #Step 3 
 Create a simple index.php file under web/www/html
