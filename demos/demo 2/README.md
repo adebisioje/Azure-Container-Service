@@ -21,6 +21,29 @@ This file is also found here
 Create a simple index.php file under web/www/html
 use the file located [here](https://github.com/adebisioje/Azure-Container-Service/tree/master/demos/demo%202/web/www/html)
 
+#Step 4
+Under the web folder, build the application 
+
+    docker build -t web web
+    
+#Step 5 
+Run the application
+
+    docker run -d -v $(pwd)/www/:/var/www -p $80:80 --name=dev_web web:latest
+
+#Step 6 
+To see your application running, run the following command 
+
+    docker ps -a
+
+#Step 7
+To view your web application in a web broweser, go to localhost/[THE PORT YOU SEE FROM STEP 6]. 
+
+#Step 8 
+Clean up 
+
+    docker rm -f $(docker ps -qa)
+
 
 
 
